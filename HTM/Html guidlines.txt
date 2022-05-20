@@ -1,0 +1,5 @@
+1> for currency
+	-&pound;
+	-&euro;
+	-&yen;   // it gives symbol of currency but it doesn't gives doller symbol which is already in keyboard.
+2> <p>copyright &copy 2021</p>  and &reg; // for copyright 	
